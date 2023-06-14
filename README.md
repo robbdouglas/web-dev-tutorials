@@ -7,10 +7,10 @@ ___
 
 
 #### Linux Ubuntu Terminal
-- Terminal Commands: 
+- [Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 
 #### Markdown
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 #### GitHub und git
  - [git basics](https://github.com/robbdouglas/web-dev-tutorials/blob/main/github/git-tutorial.md)
