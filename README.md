@@ -1,7 +1,6 @@
 # Web Dev Lexikon
 
 ## Übersicht
-___
 
 ### 1. Basic Digital Literacy
 
