@@ -1,7 +1,4 @@
-# Web Dev Tutorials
-
-## Hey ihr Lieben! Hier findet ihr ein paar Anleitungen und Hilfsmittel für unseren Web Dev Jahreskurs.
-
+# Repo auf GitHub erstellen und lokales Repo pushen
 
 1. Repo auf GitHub erstellen
 2. Wenn README bereits lokal vorhanden, dann keinen Haken bei README erstellen
