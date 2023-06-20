@@ -1,6 +1,7 @@
 # Web Dev Lexikon
 
 ## Übersicht
+---
 
 ### 1. Basic Digital Literacy
 
@@ -16,4 +17,6 @@
 
  - [GitHub Push](https://github.com/robbdouglas/web-dev-tutorials/blob/main/github/github-push.md)
 
-
+---
+ ### 2. UI Basics
+ 
