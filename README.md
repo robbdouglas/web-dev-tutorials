@@ -13,9 +13,9 @@
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 #### GitHub und git
- - [git basics](https://github.com/robbdouglas/web-dev-tutorials/blob/main/github/git-tutorial.md)
+ - [git basics](https://github.com/robbdouglas/web-dev-tutorials/blob/main/1-basic-digital-literacy/github/git-tutorial.md)
 
- - [GitHub Push](https://github.com/robbdouglas/web-dev-tutorials/blob/main/github/github-push.md)
+ - [GitHub Push](https://github.com/robbdouglas/web-dev-tutorials/blob/main/1-basic-digital-literacy/github/github-push.md)
 
 ---
  ### 2. UI Basics
