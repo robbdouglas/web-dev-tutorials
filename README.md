@@ -22,12 +22,8 @@
 
 #### HTML
 
-- [Boilerplate]()
-- [Content]()
 
 #### CSS
-
-- [Box Model]()
 
 
 ---
