@@ -35,6 +35,7 @@
 #### CSS
 
 - [3 Arten, CSS zu implementieren](https://github.com/robbdouglas/web-dev-tutorials/blob/main/2-ui-basics/css/three-ways-to-add-css.md)
+- [Selektoren]()
 
 ---
 
