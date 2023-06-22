@@ -26,7 +26,7 @@ In der HTML Datei wird das entsprechende Element wie in folgendem Beispiel anges
 <p id="meine-id">Ich bin ein Paragraph</p>
 ```
 
-Die in der HTML Datei definierte ID wird folgendermaßen in der CSS Datei angesprochen:
+Die in der HTML Datei definierte ID wird mit einem **#** in der CSS Datei angesprochen:
 
 ```css
 #meine-id {
@@ -44,7 +44,7 @@ Diese werden so in der HTML Datei definiert:
 <h2 class="meine-class">Ich bin ein Paragraph</h2>
 ``` 
 
-Die in der HTML Datei definierte Klasse wird folgendermaßen in der CSS Datei angesprochen:
+Die in der HTML Datei definierte Klasse wird mit einem **.** in der CSS Datei angesprochen:
 
 ```css
 .meine-class {
