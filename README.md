@@ -34,6 +34,8 @@
 
 #### CSS
 
+- [3 Arten, CSS hinzuzufügen](https://github.com/robbdouglas/web-dev-tutorials/blob/main/2-ui-basics/css/three-ways-to-add-css.md)
+
 ---
 
 ### 3. Programming Basics
