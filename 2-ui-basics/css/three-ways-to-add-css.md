@@ -60,6 +60,12 @@ h1 {
 
 Hier wird eine extra Datei "style.css" verwendet, welche direkt im Head der HTML Datei verlinkt wird.
 
+Die Verlinkung findet im Head der HTML folgendermaßen statt:
+
+```html
+    <link rel="stylesheet" href="CSS DATEI ODER PFAD">
+```
+
 Auch hier wird gilt derselbe Aufbau wie beim Internal CSS:
 
 ```css
