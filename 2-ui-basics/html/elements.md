@@ -2,7 +2,7 @@
 
 ## Überschriften und Text
 
-Die wichtigste Überschrift (unbedingt nur einmal pro Website verwenden):
+Die wichtigste Überschrift (unbedingt nur einmal pro Page verwenden):
 ```html
 <h1> und </h1>
 ```
