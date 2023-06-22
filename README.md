@@ -28,6 +28,8 @@
 
 - [Grundstruktur bzw. Boilerplate](https://github.com/robbdouglas/web-dev-tutorials/blob/main/2-ui-basics/html/boilerplate.md)
 
+- [Wichtige HTML Elemente](https://github.com/robbdouglas/web-dev-tutorials/blob/main/2-ui-basics/html/elements.md)
+
 #### CSS
 
 ---
