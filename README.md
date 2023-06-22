@@ -30,6 +30,8 @@
 
 - [Wichtige HTML Elemente](https://github.com/robbdouglas/web-dev-tutorials/blob/main/2-ui-basics/html/elements.md)
 
+- [Favicons](https://github.com/robbdouglas/web-dev-tutorials/blob/main/2-ui-basics/html/favicon.md)
+
 #### CSS
 
 ---
