@@ -47,7 +47,7 @@ Diese werden so in der HTML Datei definiert:
 Die in der HTML Datei definierte Klasse wird folgendermaßen in der CSS Datei angesprochen:
 
 ```css
-#meine-class {
+.meine-class {
 color: blue;
 }
 ```
