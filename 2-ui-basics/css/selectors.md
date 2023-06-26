@@ -97,6 +97,7 @@ div > p {
 ```
 
 Hier werden NUR DIREKTE Kinder angesprochen (und erhalten die Schriftfarbe grün).
+
 Dies wird durch das **>** Zeichen dargestellt.
 
 ## 8. Adjacent Sibling Selector
@@ -110,4 +111,5 @@ h5 + p {
 ```
 
 Nur DER DIREKTE Paragraph nach h5 wird angesprochen (und erhält die Schriftfarbe gelbgrün).
+
 Dies wird durch das **+** Zeichen dargestellt.
