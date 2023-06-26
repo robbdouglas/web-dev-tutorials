@@ -21,7 +21,7 @@ Nutze den **<a></a>** Tag, definiere im Attribut **href** das Ziel des Links, al
 </p>
 ```
 
-Ergänze zum obrigen beispiel noch das **target** Attribut und setze es auf **"\_blank"**!
+Ergänze zum obrigen beispiel noch das **target** Attribut und setze es auf **"\_blank"**! Deine Zielwebsite öffnet sich im Browser nun in einem neuen Tab und nicht mehr im aktuellen Tab!
 
 ### 1.3 Tipp und Ergänzung: Das **rel** Attribut
 
@@ -53,7 +53,7 @@ Definiere eine ID an der Stelle, zu der du springen möchtest.
 Möchtest du z.B. nach ganz oben bzw. auf den Start der Website springen, schreibe:
 
 ```html
-<body ID="home">
+<body id="home"></body>
 ```
 
 Wenn du nun beispielsweise am Ende deiner Website einen Link einbauen möchtest, der dich zum Beginn der Website bringt, schreibe beispielsweise:
