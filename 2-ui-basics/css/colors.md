@@ -9,22 +9,22 @@ Beispiel:
 
 ```css
 h1 {
-color: red;
+  color: red;
 }
-``` 
+```
 
 ## 2. Mit Hexadezimalcode der Farbe
 
-Farben können ebenfalls mit einem 6-stelligen Farbcode definiert werden. 
+Farben können ebenfalls mit einem 6-stelligen Farbcode definiert werden.
 Weiß hat beispielsweise den Farbcode FFFFFF
 Schreibe vor den Hexadezimalcode einen Hashtag #!
 Beispiel:
 
 ```css
 h1 {
-color: #FFFFFF;
+  color: #ffffff;
 }
-``` 
+```
 
 ## 3. Mit RGB
 
@@ -36,9 +36,9 @@ Beispiel:
 
 ```css
 h1 {
-color: rgb(122, 65, 65);
+  color: rgb(122, 65, 65);
 }
-``` 
+```
 
 ## 4. Mit HSL
 
@@ -49,6 +49,8 @@ Größere Werte für Lightness hellen den Farbton auf, intensive reinere Farben 
 Der HSL-Farbwähler macht die Kombination von Farben – z.B. für eine Farbpalette – einfach. Grundfarbe aussuchen, mit dem Lightness-Slider die Helligkeit regeln und drei oder mehr Farben gleicher Sättigung und Helligkeit bilden eine harmonische Palette.
 
 [(Quelle und weitere Infos)](https://www.mediaevent.de/css/farbrechner.html#:~:text=HSL%2DFarben%20lassen%20sich%20vorhersagen,die%20violetten%20und%20purpurnen%20T%C3%B6ne.)
+
+[Hier findest du eine gute HSL Dokumentation](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/hsl)
 
 ## 5. Tipp: Woher weiß ich, welchen Hex- oder RGB-Code meine Farbe hat?
 
