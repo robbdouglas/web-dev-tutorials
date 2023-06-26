@@ -46,3 +46,18 @@ Ergänze stets das **rel** Attribut mit den Werten **"noopener noreferrer"** um 
 ```
 
 Um per Klick auf einen Link eine E-Mail zu verfassen, nutze den **<a></a>** Tag. Definiere im **href** Attribut die E-Mail-Adresse des Empfängers und ggf. mit **?subject=Betreff** den Betreff.
+
+## 3. Zu einem bestimmten Punkt auf der Website (per Link) springen:
+
+Definiere eine ID an der Stelle, zu der du springen möchtest.
+Möchtest du z.B. nach ganz oben bzw. auf den Start der Website springen, schreibe:
+
+```html
+<body ID="home">
+```
+
+Wenn du nun beispielsweise am Ende deiner Website einen Link einbauen möchtest, der dich zum Beginn der Website bringt, schreibe beispielsweise:
+
+```html
+<p>Klicke <a href="#home">hier </a>um zur Startseite zu gelangen!</p>
+```
