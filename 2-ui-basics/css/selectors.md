@@ -18,7 +18,7 @@ p {
 
 ## 2. ID Selector
 
-Eine ID betrifft GENAU EIN einziges Element und ist daher einzigartig und einmalig zu verwenden. 
+Eine ID betrifft GENAU EIN einziges Element und ist daher einzigartig und einmalig zu verwenden.
 
 In der HTML Datei wird das entsprechende Element wie in folgendem Beispiel angesprochen:
 
@@ -30,7 +30,7 @@ Die in der HTML Datei definierte ID wird mit einem **#** in der CSS Datei angesp
 
 ```css
 #meine-id {
-color: red;
+  color: red;
 }
 ```
 
@@ -42,12 +42,22 @@ Diese werden so in der HTML Datei definiert:
 
 ```html
 <h2 class="meine-class">Ich bin ein Paragraph</h2>
-``` 
+```
 
 Die in der HTML Datei definierte Klasse wird mit einem **.** in der CSS Datei angesprochen:
 
 ```css
 .meine-class {
-color: blue;
+  color: blue;
+}
+```
+
+## Universal Selector
+
+Um ALLE Elemente anzusprechen, verwendet man den universal selector mit Hilfe von:
+
+```css
+* {
+  font-size: 30px;
 }
 ```
