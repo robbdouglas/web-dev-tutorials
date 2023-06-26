@@ -48,7 +48,7 @@ Größere Werte für Lightness hellen den Farbton auf, intensive reinere Farben 
 
 Der HSL-Farbwähler macht die Kombination von Farben – z.B. für eine Farbpalette – einfach. Grundfarbe aussuchen, mit dem Lightness-Slider die Helligkeit regeln und drei oder mehr Farben gleicher Sättigung und Helligkeit bilden eine harmonische Palette.
 
-[(Quelle)](https://www.mediaevent.de/css/farbrechner.html#:~:text=HSL%2DFarben%20lassen%20sich%20vorhersagen,die%20violetten%20und%20purpurnen%20T%C3%B6ne.)
+[(Quelle und weitere Infos)](https://www.mediaevent.de/css/farbrechner.html#:~:text=HSL%2DFarben%20lassen%20sich%20vorhersagen,die%20violetten%20und%20purpurnen%20T%C3%B6ne.)
 
 ## 5. Tipp: Woher weiß ich, welchen Hex- oder RGB-Code meine Farbe hat?
 
