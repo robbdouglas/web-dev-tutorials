@@ -61,3 +61,53 @@ Um ALLE Elemente anzusprechen, verwendet man den universal selector mit Hilfe vo
   font-size: 30px;
 }
 ```
+
+## 5. List Selector / Grouping Selector
+
+Um mehrere Elemente gleichzeitig anzusprechen, führe alle entsprechenden Elemente mit einem **,** auf:
+
+```css
+h1,
+h2,
+p {
+  font-size: 30px;
+}
+```
+
+## 6. Descendant Selector
+
+Beispiel:
+
+```css
+div p {
+  color: green;
+}
+```
+
+Bedeutet: ALLE Paragraphen, die Kinder einer div sind, werden angesprochen (und erhalten die Schriftfarbe grün).
+
+## 7. Child Selector
+
+Beispiel:
+
+```css
+div > p {
+  color: green;
+}
+```
+
+Hier werden NUR DIREKTE Kinder angesprochen (und erhalten die Schriftfarbe grün).
+Dies wird durch das **>** Zeichen dargestellt.
+
+## 8. Adjacent Sibling Selector
+
+Beispiel:
+
+```css
+h5 + p {
+  color: yellowgreen;
+}
+```
+
+Nur DER DIREKTE Paragraph nach h5 wird angesprochen (und erhält die Schriftfarbe gelbgrün).
+Dies wird durch das **+** Zeichen dargestellt.
