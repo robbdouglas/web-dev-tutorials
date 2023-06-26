@@ -1,4 +1,7 @@
-# Pseudo Klassen und Elemente
+# Beispiele für Pseudo Klassen und Elemente
+
+Hier findest du drei Beispiele für Pseudo Klassen und Elemente.
+Eine ausführliche Dokumentation findest du [hier](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 
 ## 1. Der Hover-Effekt:
 
