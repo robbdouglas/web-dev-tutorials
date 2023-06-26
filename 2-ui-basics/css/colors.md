@@ -26,7 +26,7 @@ color: #FFFFFF;
 }
 ``` 
 
-## Mit RGB
+## 3. Mit RGB
 
 Du kannst deine Farbe auch manuell mit Hilfe von RGB definieren.
 Schreibst du beispielsweise den Namen einer Farbe, so wird links daneben ein kleines Quadrat in deiner Farbe angezeigt.
@@ -40,9 +40,11 @@ color: rgb(122, 65, 65);
 }
 ``` 
 
-## Mit HSL
+## 4. Mit HSL
 
-## Woher weiß ich, welchen Hex- oder RGB-Code meine Farbe hat?
+
+
+## 5. Tipp: Woher weiß ich, welchen Hex- oder RGB-Code meine Farbe hat?
 
 Hier findest du zwei Links, welche euch bei eurer Farbauswahl helfen:
 
