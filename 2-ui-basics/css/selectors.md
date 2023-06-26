@@ -52,7 +52,7 @@ Die in der HTML Datei definierte Klasse wird mit einem **.** in der CSS Datei an
 }
 ```
 
-## Universal Selector
+## 4. Universal Selector
 
 Um ALLE Elemente anzusprechen, verwendet man den universal selector mit Hilfe von:
 
