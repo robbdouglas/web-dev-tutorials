@@ -56,7 +56,7 @@ Möchtest du z.B. nach ganz oben bzw. auf den Start der Website springen, schrei
 <body id="home"></body>
 ```
 
-Wenn du nun beispielsweise am Ende deiner Website einen Link einbauen möchtest, der dich zum Beginn der Website bringt, schreibe beispielsweise:
+Wenn du nun beispielsweise am Ende deiner Website einen Link einbauen möchtest, der dich zum Beginn der Website bringt, schreibe:
 
 ```html
 <p>Klicke <a href="#home">hier </a>um zur Startseite zu gelangen!</p>
