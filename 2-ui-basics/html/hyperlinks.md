@@ -1,10 +1,10 @@
 # HYPERLINKS & ANCHOR TAG
 
-## Link zu einer anderen Website
+## 1. Link zu einer anderen Website
 
 So kannst du einen Link zu einer anderen Website herstellen:
 
-### Beispiel in einem Paragraphen:
+### 1.1 Beispiel in einem Paragraphen:
 
 ```html
 <p>Go to <a href="https://www.google.com">Hier geht's zu Google</a></p>
@@ -12,7 +12,7 @@ So kannst du einen Link zu einer anderen Website herstellen:
 
 Nutze den **<a></a>** Tag, definiere im Attribut **href** das Ziel des Links, also die Website in diesem Fall und schreibe einen Text zwischen die beiden Tags, der per Klick zum Ziel führt!
 
-### Link zu einer anderen Website (in einem Paragraphen) in neuem Tab:
+### 1.2 Link zu einer anderen Website (in einem Paragraphen) in neuem Tab:
 
 ```html
 <p>
@@ -23,7 +23,7 @@ Nutze den **<a></a>** Tag, definiere im Attribut **href** das Ziel des Links, al
 
 Ergänze zum obrigen beispiel noch das **target** Attribut und setze es auf **"\_blank"**!
 
-### Tipp und Ergänzung: Das **rel** Attribut
+### 1.3 Tipp und Ergänzung: Das **rel** Attribut
 
 ```html
 <p>
@@ -36,7 +36,7 @@ Ergänze zum obrigen beispiel noch das **target** Attribut und setze es auf **"\
 
 Ergänze stets das **rel** Attribut mit den Werten **"noopener noreferrer"** um eine sichere und datenschutzfreundliche Umgebung für den Benutzer zu schaffen!
 
-## E-Mail per Link versenden
+## 2. E-Mail per Link versenden
 
 ```html
 <p>
