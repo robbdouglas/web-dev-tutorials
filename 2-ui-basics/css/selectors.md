@@ -84,7 +84,7 @@ div p {
 }
 ```
 
-Bedeutet: ALLE Paragraphen, die Kinder einer div sind, werden angesprochen (und erhalten die Schriftfarbe grün).
+Bedeutet: ALLE Paragraphen, die Kinder IRGENDEINER div sind, werden angesprochen (und erhalten die Schriftfarbe grün).
 
 ## 7. Child Selector
 
