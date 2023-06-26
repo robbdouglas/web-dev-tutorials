@@ -58,4 +58,6 @@ Hier findest du zwei Links, welche euch bei eurer Farbauswahl helfen:
 
 [Farb-Tabelle: Eine Übersicht](https://www.farb-tabelle.de/de/farbtabelle.htm)
 
+[Dokumentation von w3schools](https://www.w3schools.com/colors/colors_palettes.asp)
+
 [Coolors: Erstellt dir zufällige zusammenpassende Farbschemen mit den entsprechenden Codes](https://coolors.co/)
