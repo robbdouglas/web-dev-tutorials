@@ -1,4 +1,4 @@
-# CSS Selectoren
+# CSS Selektoren
 
 ## 1. Tag/Type/Element Selector
 
