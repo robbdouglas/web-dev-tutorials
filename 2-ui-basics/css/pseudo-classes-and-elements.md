@@ -42,7 +42,7 @@ a:visited {
 
 In diesem Fall wird der Link "KLICK MICH" in roter Schriftfarbe angezeigt, nachdem er geklickt wurde.
 
-## Farbe des Links während des Klickens ändern:
+## 3. Farbe des Links während des Klickens ändern:
 
 Um während des Klickens einen Link hervorzuheben, lässt sich mit **"active"** die Farbe des Links verändern:
 
