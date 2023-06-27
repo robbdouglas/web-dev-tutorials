@@ -2,7 +2,7 @@
 
 ## Absolute Größen
 
-Absolute Größen sind **unabhängig** von anderen Größen und daher einfach zu verwenden. Beachte allerdings, dass die Verwendung von absoluten Größen
+Absolute Größen sind **unabhängig** von anderen Größen und daher einfach zu verwenden. Beachte allerdings, dass die Verwendung von absoluten Größen nicht immer ideal für **responsives** Design ist (mehr dazu sh. unten).
 
 ### px
 
