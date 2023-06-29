@@ -10,9 +10,9 @@ border: 2px solid red;
 }
 ```
 
-Der erste Wert beschreibt die **Dicke** der Border (in diesem Beispiel 2px).
+Der **erste Wert** beschreibt die **Dicke** der Border (in diesem Beispiel 2px).
 
-Der zweite Wert beschreibt die **Rahmenart**. Hierbei existieren verschiedene Arten:
+Der **zweite Wert** beschreibt die **Rahmenart**. Hierbei existieren verschiedene Arten:
 
 - none: kein Rahmen
 - solid: durchgehende Linie
@@ -24,4 +24,4 @@ Der zweite Wert beschreibt die **Rahmenart**. Hierbei existieren verschiedene Ar
 - inset: eingesetzter Rahmen
 - outset: ausgesetzter Rahmen
 
-Der dritte Wert beschreibt die **Farbe** des Rahmens.
+Der **dritte Wert** beschreibt die **Farbe** des Rahmens.
