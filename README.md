@@ -34,6 +34,8 @@
 
 - [Hyperlinks](https://github.com/robbdouglas/web-dev-tutorials/blob/main/2-ui-basics/html/hyperlinks.md)
 
+- [Bilder in HTML](https://github.com/robbdouglas/web-dev-tutorials/blob/main/2-ui-basics/html/images-in-html.md)
+
 #### CSS
 
 - [3 Arten, CSS zu implementieren](https://github.com/robbdouglas/web-dev-tutorials/blob/main/2-ui-basics/css/three-ways-to-add-css.md)
